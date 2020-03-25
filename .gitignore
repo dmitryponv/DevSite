@@ -1,0 +1,6 @@
+ann/.ipynb_checkpoints/
+ann/training_checkpoints/
+*.pyc
+django_project/django_project/__pycache__/
+django_project/users/__pycache__/
+django_project/blog/__pycache__/
